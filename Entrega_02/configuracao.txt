@@ -1,0 +1,19 @@
+Aluno: Arthur Fernandes Ribeiro Costa - 11911BCC059
+
+Processador: Intel(R) Core(TM) i5 CPU @ 1.60GHz 1.80 GHz
+RAM: 8.00 GB
+Disco: WDC WD10SPZX-24Z10
+Sistema: Windows
+
+Obs.: um arquivo do tamanho de 40GB (5 * 8GB) nem rodou no meu notebook.
+
+Tempos:
+
+Varredura sequencial:
+bloco 1 registro: 0.057 s
+bloco 1000 registros: 0.06 s
+bloco 10000 registros: 0.053 s
+bloco 1000000 registros: 0.056 s
+
+Acesso aleatório:
+bloco de 1000 registros deu 0.215 s
